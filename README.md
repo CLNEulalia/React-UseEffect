@@ -1,5 +1,7 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
+## SEIR 1130, January 7th, 2021
+
 # React useEffect()
 
 So far, we've used react components to build simple applications. We've added state using the useState hook and passed down state to our children components as props. In order to do more complex things, we'll have to use life cycle methods.
